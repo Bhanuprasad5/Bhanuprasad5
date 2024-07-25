@@ -1,3 +1,5 @@
+![logo](https://drive.google.com/uc?export=view&id=1uJJpfMra__TEUcIsJ8fVT5VcCPOIDW8v)
+
 <h1 align="center">Hi 👋, I'm Bhanu Prasad Chouki</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
